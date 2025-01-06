@@ -47,5 +47,11 @@ Este desafio reforçou o uso de **elementos interativos** no Power BI, como bot�
 
 ## Imagens das páginas
 ### Página 1
+<div align="center">
+  <img src="https://github.com/WenFra005/PowerBI_Relatorio_personalizado/blob/main/imagens/bi%20p1.png"/>
+</div>
 
 ### Página 2
+<div align="center">
+  <img src="https://github.com/WenFra005/PowerBI_Relatorio_personalizado/blob/main/imagens/bi%20p2.png"/>
+</div>
