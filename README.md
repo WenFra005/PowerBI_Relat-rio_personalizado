@@ -44,3 +44,8 @@ Este relatório foi criado como parte de um segundo desafio para aprimorar habil
 
 ## Aprendizados e Melhorias
 Este desafio reforçou o uso de **elementos interativos** no Power BI, como botões e indicadores, para criar relatórios dinâmicos e amigáveis ao usuário. A navegação intuitiva melhora a experiência do usuário e permite uma análise mais eficiente.
+
+## Imagens das páginas
+### Página 1
+
+### Página 2
